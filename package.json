@@ -1,0 +1,21 @@
+{
+  "name": "aws-taskcat-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Warning: nothing happens here\""
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad2x4/aws-taskcat-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad2x4/aws-taskcat-sample/issues"
+  },
+  "homepage": "https://github.com/ahmad2x4/aws-taskcat-sample#readme"
+}
