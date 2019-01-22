@@ -1,0 +1,16 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+    },
+    "Resources": {
+        "S3B2M6XJ": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "8d976a4d-a425-413d-808b-a52f7e9f47d8"
+                }
+            }
+        }
+    }
+}
